@@ -11,10 +11,7 @@ Hello world, I'm Dimske, a software developer from Belgium. I'm currently workin
 
 ## <img src="https://media1.giphy.com/media/WCAneL2PXRkpogUmkF/giphy.gif?cid=ecf05e47ig3i88vgdm1a2pu89rzhxz3g3acxk4b6d14piv9r&rid=giphy.gif&ct=s" width="100"> Current stats... <br>
 
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dimske-sys&show_icons=true&theme=transparent&hide_title=true&card_width=830&hide_border=true" />
-</a>
-<br><br>
+
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimske-sys&langs_count=10&theme=transparent&layout=compact&hide_title=true&card_width=830&hide_border=true" />
 </a>
